@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">patApp</string>
+    <string name="txt_hello">Γεια χαρά από το patApp</string>
+    <string name="btn_pressme">Πάτησέ με</string>
+</resources>

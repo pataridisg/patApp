@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">patApp</string>
-    <string name="txt_hello">Hello from patApp</string>
     <string name="btn_pressme">Press Me</string>
     <string name="txt_email" translatable="false">Email</string>
     <string name="txt_password">Password</string>
